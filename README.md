@@ -16,12 +16,13 @@ To install a settings file for an application open the Xencelabs Application. Yo
 
 1. Download the settings file you want to install on your computer from this repository.
 
-2. Click on the gear icon 
+2. Click on the gear icon.
 
-3.The following popup menu will be display.
+3. The following popup menu will be displayed.
+<img src="images/menu.png" width="50%")>
 
-4. Navigate to the zip folder on your computer, select it, and press **Install from Disk.
+4. Navigate to the downloaded file on your computer, select it for installing.
 
-## Reporting an issue or requesting additional Features
+## Reporting an issue or requesting additional features
 
 Issues and Feature requests should be [reported as an issue](https://github.com/jaymewilkinson/Xencelabs/issues).
