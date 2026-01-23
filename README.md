@@ -7,7 +7,9 @@
 
 ## Overview
 
-This project contains a collection of settings files for the Xencelabs tablet product line. Because of the nature of applications to have user defined hotkeys these settings files should be used as a starting point and customized from there.
+This project contains a collection of settings files for the Xencelabs tablet product line. The idea is to use this repo to collect and share application settings for all the Xencelabs products and build a community to help share those settings as well as to ask questions.
+
+Because of the nature of applications to have user defined hotkeys these settings files should be used as a starting point and customized from there.
 
 ## Installation
 
@@ -25,4 +27,8 @@ To install a settings file for an application open the Xencelabs Application. Yo
 
 ## Reporting an issue or requesting additional features
 
-Issues and Feature requests should be [reported as an issue](https://github.com/jaymewilkinson/Xencelabs/issues).
+[Issues and Feature requests should be reported as an issue](https://github.com/jaymewilkinson/Xencelabs/issues).
+
+## Asking questions or viewing disscussions
+
+[Ask and view questions about these settings](https://github.com/jaymewilkinson/Xencelabs/discussions).
