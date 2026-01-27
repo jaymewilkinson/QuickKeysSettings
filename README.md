@@ -11,12 +11,22 @@ This project contains a collection of settings files for the Xencelabs tablet pr
 
 Because of the nature of applications to have user defined hotkeys these settings files should be used as a starting point and customized from there.
 
+## Downloading Settings Files
+
+To download Settings Files, be sure to download the file for the platform you want to install it on.
+All settings files are located under the platform name.
+
+- settings
+  - linux
+  - macOS
+  - windows
+
 ## Installation
 
 To install a settings file for an application open the Xencelabs Application. You will see this interface window.
 ![Xencelabs Inteface](images/interface.png)
 
-1. Download the settings file you want to install on your computer from this repository.
+1. Download the settings file you want to install on your computer from the appropriate platform directory in this repository.
 
 2. Click on the gear icon.
 
