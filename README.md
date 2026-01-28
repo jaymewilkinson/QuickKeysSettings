@@ -14,31 +14,38 @@ Because of the nature of applications to have user defined hotkeys these setting
 ## Downloading Settings Files
 
 To download Settings Files, be sure to download the file for the platform you want to install it on.
-All settings files are located under the platform name.
+All settings files are located under the associated platform name.
 
-- settings
-  - linux
-  - macOS
-  - windows
+```bash
+settings
+├── linux
+├── macOS     
+└── windows
+```
 
 ## Installation
 
-To install a settings file for an application open the Xencelabs Application. You will see this interface window.
-![Xencelabs Inteface](images/interface.png)
+To install a settings file for an application open the Xencelabs Application. 
+You should see the following interface window popup.
 
-1. Download the settings file you want to install on your computer from the appropriate platform directory in this repository.
+<img src="https://download01.xencelabs.com/static/images/xencelabs/support/quick_start/Keys/add/qks.webp" 
+  alt="Prefrences" 
+  width="50%"
+/>
 
-2. Click on the gear icon.
+- Download the settings file you want to install on your computer from the appropriate platform directory in this repository.
+- Click on the gear icon in the upper right corner of the prefrence window
+- Once the popup menu is displayed, click on the **Import Settings** menu button.
+- A **File Dialog** window will be displayed. 
+  - Now navigate to the downloaded file on your computer, select it
+  - Click the **Open** buttun to install the settings.
 
-3. The following popup menu will be displayed.
-<img src="images/menu.png" width="50%")>
-
-4. Navigate to the downloaded file on your computer, select it for installing.
-
-## Reporting an issue or requesting additional features
-
-[Issues and Feature requests should be reported as an issue](https://github.com/jaymewilkinson/Xencelabs/issues).
+## Reporting issues or requesting additional features
+<a href="https://github.com/jaymewilkinson/Xencelabs/issues">
+  Issues and Feature requests should be reported as an issue
+</a>
 
 ## Asking questions or viewing disscussions
-
-[Ask and view questions about these settings](https://github.com/jaymewilkinson/Xencelabs/discussions).
+<a href="https://github.com/jaymewilkinson/Xencelabs/discussions">
+  Ask and view questions about these settings
+</a>
