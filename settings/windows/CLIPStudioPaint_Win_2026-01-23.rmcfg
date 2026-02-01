@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RemoteExportApp>
+  <App id="0" name="0">
+    <path/>
+    <K id="0">
+      <Set id="0" enable="1" name="Draw">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|Brush|b|66:48</K3>
+        <K4 id="2" Actid="2">2|*#Sub Color|X|88:45</K4>
+        <K5 id="2" Actid="2">2|*#Grab Hand|Space|32:57</K5>
+        <K6 id="2" Actid="2">2|*#Rotate Canvas|Space+Shift|32:57+16:42</K6>
+        <K7 id="2" Actid="2">2|Eraser|e|69:18</K7>
+        <K8 id="2" Actid="2">2|*#Palettes|Tab|9:15</K8>
+      </Set>
+      <Set id="1" enable="0" name="">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Esc|Esc|27:1</K5>
+        <K6 id="2" Actid="2">2|*#Enter|Enter|13:284</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set id="2" enable="0" name="">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Esc|Esc|27:1</K5>
+        <K6 id="2" Actid="2">2|*#Enter|Enter|13:284</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set id="3" enable="0" name="">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Esc|Esc|27:1</K5>
+        <K6 id="2" Actid="2">2|*#Enter|Enter|13:284</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set id="4" enable="0" name="">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Esc|Esc|27:1</K5>
+        <K6 id="2" Actid="2">2|*#Enter|Enter|13:284</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+    </K>
+    <R id="0" wid="1">
+      <W1 speed="3" color="7" id="4" enable="1" name="" colorbright="2" orderid="1">4|Undo and Redo|Ctrl+Z|Ctrl+Y|17:29+90:44|17:29+89:21</W1>
+      <W2 speed="3" color="6" id="4" enable="1" name="" colorbright="2" orderid="2">4|*#Brush Size|[|]|219:26|221:27</W2>
+      <W3 speed="3" color="5" id="4" enable="1" name="" colorbright="2" orderid="3">4|*#Cycle Layers|Alt+[|Alt+]|18:56+219:26|18:56+221:27</W3>
+      <W4 speed="3" color="4" id="4" enable="1" name="" colorbright="2" orderid="4">4|*#Sub Tool|,|.|188:51|190:52</W4>
+    </R>
+  </App>
+  <FileNotes>
+    <DataCreated>2026-01-23</DataCreated>
+    <OS>Win</OS>
+    <LanguageSource>English</LanguageSource>
+    <KeyboardSource>0</KeyboardSource>
+    <DriverVersion>1.3.5-90</DriverVersion>
+    <AppRename/>
+    <AppTureName>CLIPStudioPaint.exe</AppTureName>
+    <Notes/>
+  </FileNotes>
+</RemoteExportApp>
